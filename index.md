@@ -1,6 +1,6 @@
 ## Welcome to Samantha's own page
 
-Here is what I did for DS105
+Here is what I did for DS105 (WRITE BLURB HERE SAMANTHA)
 
 You can use the [editor on GitHub](https://github.com/samanthapost16/DS105-Class-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
