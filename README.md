@@ -1,1 +1,1 @@
-# DS105-Class-1
+# Samantha-Post-GitHub-Assignment-1
