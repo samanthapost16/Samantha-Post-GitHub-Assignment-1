@@ -1,4 +1,4 @@
-# Welcome to Samantha Post's  page
+# Welcome to Samantha Post's page
 
 ## Introduction
 
